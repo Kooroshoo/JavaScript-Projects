@@ -4,3 +4,4 @@ Small projects created with HTML, CSS, JavaScript & other frameworks. Click on t
 |Name| Using |
 |---|---|
 |  [Dice Game](https://kooroshoo.github.io/JavaScript-Projects/Dice%20Game/index.html) | HTML, CSS, JavaScript |
+|  [Drum Kit](https://kooroshoo.github.io/JavaScript-Projects/Drum%20Kit/index.html) | HTML, CSS, JavaScript |
