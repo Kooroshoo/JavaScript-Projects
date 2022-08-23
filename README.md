@@ -1,5 +1,5 @@
 # JavaScript-Projects
-Small projects created with HTML, CSS, JavaScript & other frameworks.
+Small projects created with HTML, CSS, JavaScript & other frameworks. Click on the name of each project to view the demo.
 
 |Name| Using |
 |---|---|
