@@ -62,7 +62,7 @@ function animatePress(currentColor) {
 function checkAnswer(currentLevel) {
 
     if (currentLevel === gamePattern.length -1) {
-        if (userClickedPattern[userClickedPattern.length-1] === gamePattern[gamePattern.length-1]) 
+        if (JSON.stringify(userClickedPattern) == JSON.stringify(gamePattern)) 
         {
             $("#level-title").text("Correct");
             setTimeout(function() {
