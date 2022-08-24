@@ -84,6 +84,10 @@ function checkAnswer(currentLevel) {
             startOver();
         }
     }
+
+    if (currentLevel > gamePattern.length - 1) {
+        startOver();
+    }
 }
 
 function startOver() {
