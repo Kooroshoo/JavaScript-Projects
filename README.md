@@ -8,4 +8,4 @@ Small projects created with HTML, CSS, JavaScript & other frameworks. Click on t
 |  [Simon Game](https://kooroshoo.github.io/JavaScript-Projects/Simon%20Game/index.html) | HTML, CSS, JavaScript, jQuery |
 |  [3D Cube](https://kooroshoo.github.io/JavaScript-Projects/3D%20Cube/index.html) | HTML, CSS, JavaScript, Three.js |
 |  [Color Generator](https://kooroshoo.github.io/JavaScript-Projects/Color%20Generator/index.html) | HTML, CSS, JavaScript |
-|  [Rock Paper Scissors](https://kooroshoo.github.io/JavaScript-Projects/Rock%Paper%Scissors/index.html) | HTML, JavaScript |
+|  [Rock Paper Scissors](https://kooroshoo.github.io/JavaScript-Projects/Rock%20Paper%20Scissors/index.html) | HTML, JavaScript |
