@@ -10,3 +10,4 @@ Small projects created with HTML, CSS, JavaScript & other frameworks. Click on t
 |  [Color Generator](https://kooroshoo.github.io/JavaScript-Projects/Color%20Generator/index.html) | HTML, CSS, JavaScript |
 |  [Rock Paper Scissors](https://kooroshoo.github.io/JavaScript-Projects/Rock%20Paper%20Scissors/index.html) | HTML, JavaScript |
 |  [Memory Game](https://kooroshoo.github.io/JavaScript-Projects/Memory%20Game/index.html) | HTML, CSS, JavaScript |
+|  [Whac-a-mole](https://kooroshoo.github.io/JavaScript-Projects/Whac-a-mole/index.html) | HTML, CSS, JavaScript |
