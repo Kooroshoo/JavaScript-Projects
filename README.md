@@ -12,3 +12,4 @@ Small projects created with HTML, CSS, JavaScript & other frameworks. Click on t
 |  [Memory Game](https://kooroshoo.github.io/JavaScript-Projects/Memory%20Game/index.html) | HTML, CSS, JavaScript |
 |  [Whac-a-mole](https://kooroshoo.github.io/JavaScript-Projects/Whac-a-mole/index.html) | HTML, CSS, JavaScript |
 |  [Breakout Game](https://kooroshoo.github.io/JavaScript-Projects/Breakout%20Game/index.html) | HTML, CSS, JavaScript |
+|  [Frogger](https://kooroshoo.github.io/JavaScript-Projects/Frogger/index.html) | HTML, CSS, JavaScript |
