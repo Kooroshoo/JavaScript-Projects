@@ -14,3 +14,4 @@ Small projects created with HTML, CSS, JavaScript & other frameworks. Click on t
 |  [Breakout Game](https://kooroshoo.github.io/JavaScript-Projects/Breakout%20Game/index.html) | HTML, CSS, JavaScript |
 |  [Frogger](https://kooroshoo.github.io/JavaScript-Projects/Frogger/index.html) | HTML, CSS, JavaScript |
 |  [Connect Four](https://kooroshoo.github.io/JavaScript-Projects/Connect%20Four/index.html) | HTML, CSS, JavaScript |
+|  [Space Invaders](https://kooroshoo.github.io/JavaScript-Projects/Space%20Invaders/index.html) | HTML, CSS, JavaScript |
