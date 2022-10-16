@@ -15,3 +15,4 @@ Small projects created with HTML, CSS, JavaScript & other frameworks. Click on t
 |  [Frogger](https://kooroshoo.github.io/JavaScript-Projects/Frogger/index.html) | HTML, CSS, JavaScript |
 |  [Connect Four](https://kooroshoo.github.io/JavaScript-Projects/Connect%20Four/index.html) | HTML, CSS, JavaScript |
 |  [Space Invaders](https://kooroshoo.github.io/JavaScript-Projects/Space%20Invaders/index.html) | HTML, CSS, JavaScript |
+|  [Counter](https://kooroshoo.github.io/JavaScript-Projects/Counter/index.html) | HTML, CSS, JavaScript |
