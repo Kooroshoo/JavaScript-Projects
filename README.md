@@ -17,3 +17,4 @@ Small projects created with HTML, CSS, JavaScript & other frameworks. Click on t
 |  [Space Invaders](https://kooroshoo.github.io/JavaScript-Projects/Space%20Invaders/index.html) | HTML, CSS, JavaScript |
 |  [Counter](https://kooroshoo.github.io/JavaScript-Projects/Counter/index.html) | HTML, CSS, JavaScript |
 |  [Review](https://kooroshoo.github.io/JavaScript-Projects/Review%20Project/index.html) | HTML, CSS, JavaScript |
+|  [Digital Clock](https://kooroshoo.github.io/JavaScript-Projects/Digital%20Clock/index.html) | HTML, CSS, JavaScript |
